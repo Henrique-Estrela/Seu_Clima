@@ -1,4 +1,4 @@
-
+// Se quiser utilizar com sua propria Api: https://openweathermap.org/api
 
 const apiKey = "";
 const apiCountryURL = "https://countryflagsapi.com/png/";
